@@ -1,0 +1,15 @@
+total 57K
+drwxr-xr-x 1 mdani 197121   0 jun. 22 20:05 ../
+-rw-r--r-- 1 mdani 197121   0 jun. 22 20:14 another_file
+-rw-r--r-- 1 mdani 197121   0 jun. 22 20:15 hello.p
+-rw-r--r-- 1 mdani 197121   0 jun. 22 20:20 .hidden_file
+-rw-r--r-- 1 mdani 197121 20K jun. 22 20:23 image.png
+-rw-r--r-- 1 mdani 197121  50 jun. 22 20:35 myfile.txt
+drwxr-xr-x 1 mdani 197121   0 jun. 22 20:40 directory/
+drwxr-xr-x 1 mdani 197121   0 jun. 22 20:48 ./
+-rw-r--r-- 1 mdani 197121   0 jun. 22 20:49 new_file
+total 4.0K
+drwxr-xr-x 1 mdani 197121 0 jun. 22 20:40 ./
+-rw-r--r-- 1 mdani 197121 0 jun. 22 20:40 file
+-rw-r--r-- 1 mdani 197121 0 jun. 22 20:40 file1
+drwxr-xr-x 1 mdani 197121 0 jun. 22 20:48 ../
